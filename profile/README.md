@@ -12,6 +12,7 @@ extensions to integrate tools into the editor.
 * [Figma](https://github.com/LoamStudios/zed-mcp-server-figma)
 * [GitHub](https://github.com/LoamStudios/zed-mcp-server-github)
 * [Webflow](https://github.com/LoamStudios/zed-mcp-server-webflow)
+* [Sequential Thinking](https://github.com/LoamStudios/zed-mcp-server-sequential-thinking)
 
 ### LSP Servers
 
