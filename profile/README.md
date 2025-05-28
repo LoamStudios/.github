@@ -9,7 +9,6 @@ We :heart: [Zed](https://zed.dev/) at Loam Studios.
 * [Figma](https://github.com/LoamStudios/zed-mcp-server-figma)
 * [GitHub](https://github.com/LoamStudios/zed-mcp-server-github)
 * [Webflow](https://github.com/LoamStudios/zed-mcp-server-webflow)
-*
 
 ### LSP Servers
 
